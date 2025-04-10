@@ -8,4 +8,5 @@ package llgz;/*
 public class Person {
     private int age;
     private String name2;
+    private String height;
 }
