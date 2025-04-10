@@ -7,5 +7,5 @@ package llgz;/*
 
 public class Person {
     private int age;
-    private String name1;
+    private String name2;
 }
